@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Ashwini (yeshwini2005)!
+## 👋 Hi there, I'm yeshwiniparsi (yeshwini2005)!
 
-🎓 **2nd Year B.Tech – Artificial Intelligence & Machine Learning**  
+🎓 **#3rd Year B.Tech – Artificial Intelligence & Machine Learning**  
 📍 Sri Vishnu Engineering College for Women, Bhimavaram  
 💡 Passionate about Machine Learning, AI Agents, Computer Vision & Web Development  
 🧠 Currently learning: AI Agents, Python, ML model building, GitHub workflow  
@@ -47,7 +47,7 @@
 
 ## 📫 Contact Me
 📩 **Email:** parsiyeshwini123@gmail.com  
-🔗 **LinkedIn:** *(Add your link here)*  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yeshwiniparsi/ 
 
 ---
 
