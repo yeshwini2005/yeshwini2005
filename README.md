@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm yeshwiniparsi (yeshwini2005)!
 
-🎓 **#3rd Year B.Tech – Artificial Intelligence & Machine Learning**  
+🎓 **#4th Year B.Tech – Artificial Intelligence & Machine Learning**  
 📍 Sri Vishnu Engineering College for Women, Bhimavaram  
 💡 Passionate about Machine Learning, AI Agents, Computer Vision & Web Development  
 🧠 Currently learning: AI Agents,DSA with JAVA, Python, ML model building, GitHub workflow  
